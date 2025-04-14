@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "google-sheets": {
+      "command": "npx",
+      "args": [
+        "tsx",
+        "/Users/tomiyasuhiroki/Desktop/MCPサーバー/google-sheets-mcp/src/index.ts"
+      ],
+      "env": {}
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/tomiyasuhiroki/Desktop",
+        "/Users/tomiyasuhiroki/Downloads"
+      ]
+    }
+  }
+}
