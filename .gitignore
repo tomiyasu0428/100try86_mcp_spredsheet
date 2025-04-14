@@ -17,6 +17,7 @@ build/
 # Google API
 credentials.json
 token.json
+mcp.config.json
 
 # IDE
 .idea/
